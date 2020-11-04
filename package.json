@@ -1,0 +1,26 @@
+{
+  "name": "@yinm/exec-info",
+  "version": "0.0.1",
+  "description": "print JavaScript code and execution result to console.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yinm/exec-info.git"
+  },
+  "keywords": [],
+  "author": "yinm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yinm/exec-info/issues"
+  },
+  "homepage": "https://github.com/yinm/exec-info#readme"
+}
